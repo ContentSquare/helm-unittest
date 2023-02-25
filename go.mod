@@ -8,7 +8,6 @@ require (
 	github.com/Masterminds/semver v1.4.2 // indirect
 	github.com/Masterminds/sprig v2.19.0+incompatible // indirect
 	github.com/bradleyjkemp/cupaloy v2.3.0+incompatible
-	github.com/bradleyjkemp/cupaloy/v2 v2.4.0 // indirect
 	github.com/cyphar/filepath-securejoin v0.2.2 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fatih/color v1.7.0
@@ -28,8 +27,7 @@ require (
 	github.com/spf13/pflag v1.0.3 // indirect
 	github.com/stretchr/objx v0.1.1 // indirect
 	github.com/stretchr/testify v1.3.0
-	golang.org/x/crypto v0.0.0-20190325154230-a5d413f7728c // indirect
-	golang.org/x/sys v0.0.0-20190402142545-baf5eb976a8c // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 	gopkg.in/yaml.v2 v2.2.2
 	k8s.io/apimachinery v0.0.0-20190402215020-10bf64c7018d // indirect
 	k8s.io/helm v2.13.1+incompatible
