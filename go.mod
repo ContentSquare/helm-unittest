@@ -4,11 +4,10 @@ go 1.14
 
 require (
 	github.com/BurntSushi/toml v0.3.1 // indirect
-	github.com/Masterminds/goutils v1.1.0 // indirect
+	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver v1.4.2 // indirect
 	github.com/Masterminds/sprig v2.19.0+incompatible // indirect
 	github.com/bradleyjkemp/cupaloy v2.3.0+incompatible
-	github.com/bradleyjkemp/cupaloy/v2 v2.4.0 // indirect
 	github.com/cyphar/filepath-securejoin v0.2.2 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fatih/color v1.7.0
